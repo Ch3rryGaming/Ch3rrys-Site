@@ -1,2 +1,2 @@
-# ch3rrygaming.github.io
+# Ch3rrys-Site
 This is my site bozo
